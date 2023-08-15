@@ -1,0 +1,15 @@
+{
+  "name": "qazando-bootcamp-cypress-2",
+  "version": "1.0.0",
+  "description": "Projeto criado para o bootcamp de Cypress da QAzando.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Bruno Dórea",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.17.3"
+  }
+}
